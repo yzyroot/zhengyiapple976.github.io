@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "杨正一"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "杨正一"
   pronouns         : # example: "she/her"  
   bio              : "不要陷入问题"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "北京"
+  employer         : "山西大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "704297917@qq.com" 
 
   # Academic websites
   academia         : # URL
